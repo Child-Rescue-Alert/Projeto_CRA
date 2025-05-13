@@ -1,2 +1,0 @@
-1 - Iniciar servidor mongodb
-2 - Instalar dependencias do Front-End usando npm install
