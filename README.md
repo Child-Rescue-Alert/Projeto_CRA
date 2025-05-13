@@ -41,3 +41,8 @@ cd frontend
 npm install
 npm start
 ```
+
+📝 Orientador do Projeto
+Este projeto foi desenvolvido sob orientação do professor Bruno Zolotareff dos Santos, cuja contribuição foi essencial para o direcionamento técnico e acadêmico do sistema Child Rescue Alert (CRA).
+
+
